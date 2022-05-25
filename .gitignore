@@ -1,0 +1,40 @@
+HELP.md
+.gradle
+/src/main/querydsl/
+build/
+gradlew.bat
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+/target
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+src/main/querydsl/**
+
+.DS_Store
+
+## Maven
+/mvnw*
+.mvn*
